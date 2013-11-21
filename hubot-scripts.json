@@ -1,1 +1,12 @@
-["facepalm.coffee","kittens.coffee","lmgtfy.coffee","meme_captain.coffee","mtg.coffee","redis-brain.coffee", "shipit.coffee","twitter.coffee","twitter_stream.coffee","wikipedia.coffee"]
+[ "facepalm.coffee",
+  "graphite.coffee",
+  "kittens.coffee",
+  "lmgtfy.coffee",
+  "meme_captain.coffee",
+  "mtg.coffee",
+  "redis-brain.coffee",
+  "shipit.coffee",
+  "twitter.coffee",
+  "twitter_stream.coffee",
+  "wikipedia.coffee"
+]
