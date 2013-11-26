@@ -1,4 +1,5 @@
 [ "facepalm.coffee",
+  "github-status.coffee",
   "graphite.coffee",
   "kittens.coffee",
   "lmgtfy.coffee",
