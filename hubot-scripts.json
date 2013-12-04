@@ -10,7 +10,9 @@
   "mtg.coffee",
   "redis-brain.coffee",
   "shipit.coffee",
+  "tasks.coffee",
   "twitter.coffee",
   "twitter_stream.coffee",
+  "weather.coffee",
   "wikipedia.coffee"
 ]
