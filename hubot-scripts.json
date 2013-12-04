@@ -13,6 +13,6 @@
   "tasks.coffee",
   "twitter.coffee",
   "twitter_stream.coffee",
-  "weather.coffee",
+  "wunderground.coffee",
   "wikipedia.coffee"
 ]
