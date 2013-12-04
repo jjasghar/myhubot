@@ -1,4 +1,5 @@
 [ "ambush.coffee",
+  "coin.coffee",
   "facepalm.coffee",
   "github-status.coffee",
   "graphite.coffee",
