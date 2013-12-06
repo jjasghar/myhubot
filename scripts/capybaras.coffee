@@ -8,8 +8,8 @@
 #   None
 #
 # Commands:
-#   hubot capybaras me - Display a capybara
-#   hubot capybaras bomb <number> - Display a number of capybaras
+#   hubot capybara me - Display a capybara
+#   hubot capybara bomb <number> - Display a number of capybaras
 #
 # Author:
 #   jjasghar - kinda, stolen too ;)
