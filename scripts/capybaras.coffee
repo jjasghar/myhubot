@@ -1,7 +1,19 @@
-# capybaras to go with kittens and pugs
+# Description:
+#   capybaras learning the imgur json
 #
-# capybara me - Receive a capybara
-# capybara bomb N - get N capybaras
+# Dependencies:
+#   None
+#
+# Configuration:
+#   None
+#
+# Commands:
+#   hubot capybaras me - Display a capybara
+#   hubot capybaras bomb <number> - Display a number of capybaras
+#
+# Author:
+#   jjasghar - kinda, stolen too ;)
+#
 
 module.exports = (robot) ->
 
