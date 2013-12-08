@@ -31,6 +31,7 @@
     "soupselect": "0.2.0",
     "htmlparser": "1.7.6",
     "node-trello": "latest",
+    "hubot-google-hangouts": "0.5.1",
     "underscore.string": "2.3.0"
   },
 
