@@ -33,6 +33,7 @@
     "hubot-plusplus": "1.0.x",
     "htmlparser": "1.7.6",
     "node-trello": "latest",
+    "hubot-humanity": "latest",
     "hubot-google-hangouts": "0.5.1",
     "underscore.string": "2.3.0"
   },
