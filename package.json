@@ -30,6 +30,7 @@
     "hubot-irc":         ">= 0.1.24",
     "twit": "1.1.6",
     "soupselect": "0.2.0",
+    "hubot-plusplus": "1.0.x",
     "htmlparser": "1.7.6",
     "node-trello": "latest",
     "hubot-google-hangouts": "0.5.1",
