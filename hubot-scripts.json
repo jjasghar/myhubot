@@ -5,6 +5,7 @@
   "github-status.coffee",
   "graphite.coffee",
   "kittens.coffee",
+  "karma.coffee",
   "lmgtfy.coffee",
   "meme_captain.coffee",
   "mtg.coffee",
