@@ -35,6 +35,7 @@
     "hubot-humanity": "latest",
     "hubot-dance": "latest",
     "hubot-google-hangouts": "0.5.1",
+    "hubot-bikeshed": ">= 0.0.0",
     "underscore.string": "2.3.0"
   },
 
