@@ -10,6 +10,7 @@
   "meme_captain.coffee",
   "mtg.coffee",
   "redis-brain.coffee",
+  "room-info.coffee",
   "shipit.coffee",
   "tasks.coffee",
   "trello.coffee",
