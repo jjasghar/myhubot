@@ -1,6 +1,7 @@
 [ "ambush.coffee",
   "coin.coffee",
   "dice.coffee",
+  "emoji.coffee",
   "facepalm.coffee",
   "github-status.coffee",
   "graphite.coffee",
