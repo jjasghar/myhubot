@@ -1,1 +1,7 @@
-["hubot-google-hangouts","hubot-humanity","hubot-dance","hubot-bikeshed","hubot-fliptable"]
+[ "hubot-google-hangouts",
+  "hubot-humanity",
+  "hubot-dance",
+  "hubot-bikeshed",
+  "hubot-imgur_thesimpsons",
+  "hubot-fliptable"
+]

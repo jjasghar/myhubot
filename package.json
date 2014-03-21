@@ -34,6 +34,7 @@
     "node-trello": "latest",
     "hubot-humanity": "latest",
     "hubot-dance": "latest",
+    "hubot-imgur_thesimpsons": "latest",
     "hubot-google-hangouts": "0.5.1",
     "hubot-bikeshed": ">= 0.0.0",
     "hubot-fliptable": ">= 0.0.0",
