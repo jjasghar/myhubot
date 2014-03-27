@@ -32,6 +32,7 @@
     "soupselect": "0.2.0",
     "htmlparser": "1.7.6",
     "node-trello": "latest",
+    "nodepie": ">= 0.5.0",
     "hubot-humanity": "latest",
     "hubot-dance": "latest",
     "hubot-thesimpsons": "latest",
