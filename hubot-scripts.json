@@ -15,8 +15,6 @@
   "shipit.coffee",
   "tasks.coffee",
   "trello.coffee",
-  "twitter.coffee",
-  "twitter_stream.coffee",
   "wunderground.coffee",
   "web.coffee",
   "wikipedia.coffee"

@@ -1,5 +1,10 @@
 #!/bin/sh
 
+export HUBOT_TWITTER_CONSUMER_KEY="afiCSCEFE6eLPt9vP4tOK1wJ0"
+export HUBOT_TWITTER_CONSUMER_SECRET="VGZJEsS89WhaHWGyShgS4ZmGxYArZW1ip6ZFs8sH6dhWhTVS2V"
+export HUBOT_TWITTER_ACCESS_TOKEN="130963706-7Rvy6aumbexw1Gpw7w4GjpHURojNX1xt99q9iEZz"
+export HUBOT_TWITTER_ACCESS_TOKEN_SECRET="oi7AHmBYB5xgQUA9lj4vXmFspLA17ZcvHhsy266frj12i"
+
 npm install
 export PATH="node_modules/.bin:node_modules/hubot/node_modules/.bin:$PATH"
 
