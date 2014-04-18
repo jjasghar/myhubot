@@ -52,8 +52,8 @@ module.exports = (robot) ->
     id = url[2].toString()
 
     twit.get "statuses/show/:id",
-      id: id,
+      {id: id},
       (err, reply) ->
-        return console.log('hello world')
-        return console.log(err)
-        return msg.send _.unescape(_.last(reply)['text']) if reply[0]['text']
+        if err
+          return console.log(err)
+        return msg.send _.unescape(reply.text) if reply.text
