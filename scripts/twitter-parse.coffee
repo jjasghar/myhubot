@@ -1,5 +1,5 @@
 # Description:
-#   gets tweet from user
+#   gets tweet from a url
 #
 # Dependencies:
 #   "twit": "1.1.6"
@@ -12,12 +12,12 @@
 #   HUBOT_TWITTER_ACCESS_TOKEN_SECRET
 #
 # Commands:
-#   hubot twitter <twitter username> - Show last tweet from <twitter username>
-#   hubot twitter <twitter username> <n> - Cycle through tweet with <n> starting w/ latest
+#   http[s]://twitter.com/<twitter username>/status/<id> - will pull out the tweet for you
 #
 # Author:
 #   KevinTraver
-#
+#   dosman711
+#   jjasghar
 
 _ = require "underscore"
 Twit = require "twit"
