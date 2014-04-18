@@ -2,7 +2,7 @@
 #   gets tweet from a url
 #
 # Dependencies:
-#   "twit": "1.1.6"
+#   "twit": "1.1.13"
 #   "underscore": "1.4.4"
 #
 # Configuration:
