@@ -7,7 +7,7 @@
   "graphite.coffee",
   "kittens.coffee",
   "karma.coffee",
-  "google-search-api.coffee",
+  "google.coffee",
   "lmgtfy.coffee",
   "meme_captain.coffee",
   "mtg.coffee",
