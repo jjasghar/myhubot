@@ -8,13 +8,14 @@
 #   None
 #
 # Commands:
-#   Rob said 'phrase' (context)
-#   quote me - show random quote
-#   quotes - show all quotes
-#   quotes clear - delete all quotes in the system
+#   hubot <user> said "<some quote>" (<context>)
+#   hubot quote me - show random quote
+#   hubot quotes - show all quotes
+#   hubot quotes clear - delete all quotes in the system
 #
 # Author:
 #   jmacadam
+#   jjasghar
 
 sassy_confirmations = [
   "Srsly? woa.",
