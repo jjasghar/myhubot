@@ -17,6 +17,7 @@
   "tasks.coffee",
   "trello.coffee",
   "wunderground.coffee",
+  "update.coffee",
   "web.coffee",
   "wikipedia.coffee"
 ]
