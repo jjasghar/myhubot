@@ -1,6 +1,7 @@
 [ "hubot-daily-comic",
   "hubot-google-hangouts",
   "hubot-humanity",
+  "hubot-http-status",
   "hubot-explainshell",
   "hubot-dance",
   "hubot-darts",

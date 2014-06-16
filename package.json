@@ -37,6 +37,7 @@
     "cheerio": "latest",
     "hubot-humanity": "latest",
     "hubot-dance": "latest",
+    "hubot-http-status": "latest",
     "hubot-darts": "latest",
     "hubot-thesimpsons": "latest",
     "hubot-google-hangouts": "0.5.1",
