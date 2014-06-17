@@ -40,6 +40,7 @@
     "hubot-http-status": "latest",
     "hubot-darts": "latest",
     "hubot-thesimpsons": "latest",
+    "hubot-status": "latest",
     "hubot-google-hangouts": "0.5.1",
     "hubot-bikeshed": ">= 0.0.0",
     "hubot-seen": ">= 0.0.0",

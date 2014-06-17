@@ -5,10 +5,10 @@
   "hubot-explainshell",
   "hubot-dance",
   "hubot-darts",
-  "hubot-seen",
   "hubot-bikeshed",
   "hubot-thesimpsons",
   "hubot-fliptable",
   "hubot-has-no-idea",
   "hubot-screenhero"
+  "hubot-status"
 ]
