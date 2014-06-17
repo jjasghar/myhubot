@@ -39,6 +39,7 @@
     "hubot-dance": "latest",
     "hubot-http-status": "latest",
     "hubot-darts": "latest",
+    "hubot-uptimerobot": "latest",
     "hubot-thesimpsons": "latest",
     "hubot-status": "latest",
     "hubot-google-hangouts": "0.5.1",
