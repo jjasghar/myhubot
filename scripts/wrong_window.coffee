@@ -10,12 +10,12 @@
 
 
 module.exports = (robot) ->
-  robot.hear /ls$/, (msg) ->
+  robot.hear /\bls$/, (msg) ->
     msg.send "ls command not found"
 
-  robot.hear /exit$/, (msg) ->
+  robot.hear /\bexit$/, (msg) ->
     msg.send "exit command not found"
 
-  robot.hear /cd$/, (msg) ->
+  robot.hear /\bcd$/, (msg) ->
     msg.send "cd command not found"
 
