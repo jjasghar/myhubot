@@ -33,7 +33,6 @@
     "htmlparser": "1.7.6",
     "node-trello": "latest",
     "nodepie": ">= 0.5.0",
-    "hubot-daily-comic": "latest",
     "cheerio": "latest",
     "hubot-humanity": "latest",
     "hubot-motivate": "latest",
