@@ -11,7 +11,6 @@
   "mtg.coffee",
   "redis-brain.coffee",
   "room-info.coffee",
-  "tasks.coffee",
   "shipit.coffee",
   "tasks.coffee",
   "trello.coffee",
