@@ -34,6 +34,7 @@
     "node-trello": "latest",
     "nodepie": ">= 0.5.0",
     "cheerio": "latest",
+    "hubot-business-cat": "latest",
     "hubot-humanity": "latest",
     "hubot-motivate": "latest",
     "hubot-dance": "latest",

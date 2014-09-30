@@ -1,16 +1,17 @@
-[ 
-  "hubot-google-hangouts",
-  "hubot-humanity",
-  "hubot-http-status",
-  "hubot-explainshell",
-  "hubot-dance",
-  "hubot-motivate",
-  "hubot-darts",
+[
   "hubot-bikeshed",
-  "hubot-uptimerobot",
-  "hubot-thesimpsons",
+  "hubot-business-cat",
+  "hubot-dance",
+  "hubot-darts",
+  "hubot-explainshell",
   "hubot-fliptable",
+  "hubot-google-hangouts",
   "hubot-has-no-idea",
+  "hubot-http-status",
+  "hubot-humanity",
+  "hubot-motivate",
   "hubot-screenhero",
-  "hubot-status"
+  "hubot-status",
+  "hubot-thesimpsons",
+  "hubot-uptimerobot"
 ]
