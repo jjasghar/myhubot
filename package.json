@@ -46,7 +46,6 @@
     "hubot-google-hangouts": "0.5.1",
     "hubot-bikeshed": ">= 0.0.0",
     "hubot-seen": ">= 0.0.0",
-    "hubot-has-no-idea": "1.0.x",
     "hubot-fliptable": ">= 0.0.0",
     "hubot-explainshell": ">= 0.0.0",
     "hubot-screenhero": ">= 0.0.0",
