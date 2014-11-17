@@ -1,1 +1,0 @@
-/Users/jasghar/repo/hubot-welcome/src/welcome.coffee
