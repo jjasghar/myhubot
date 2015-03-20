@@ -18,9 +18,9 @@ Lita.configure do |config|
   # The adapter you want to connect with. Make sure you've added the
   # appropriate gem to the Gemfile.
   config.robot.adapter = :irc
-  #config.robot.admins = ["eed844bf-2df0-4091-943a-7ee05ef36f4a"]
+  config.robot.admins = ["a5d7e8cb-52cc-4171-882a-f2773084d3c0"]
   config.adapters.irc.server = ENV["HUBOT_IRC_SERVER"]
-  config.adapters.irc.channels = ["#c6h1o6"]
+  config.adapters.irc.channels = ["#c6h12o6"]
   config.adapters.irc.user = ENV["HUBOT_IRC_NICK"]
   config.adapters.irc.realname = ENV["HUBOT_IRC_NICK"]
   config.adapters.irc.password = ENV["LITA_PASSWORD"]
