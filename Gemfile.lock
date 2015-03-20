@@ -23,6 +23,8 @@ GEM
       thor (>= 0.18.1)
     lita-ambush (1.0.0)
       lita (>= 4.2)
+    lita-down-for-everyone (0.0.3)
+      lita
     lita-google (1.0.0)
       lita (>= 4.0)
     lita-google-images (2.0.0)
@@ -53,6 +55,7 @@ PLATFORMS
 DEPENDENCIES
   lita
   lita-ambush
+  lita-down-for-everyone
   lita-google
   lita-google-images
   lita-irc
