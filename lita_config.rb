@@ -35,7 +35,7 @@ Lita.configure do |config|
   # config.adapter.password = "secret"
 
   ## Example: Set options for the Redis connection.
-  # config.redis.host = ENV["REDISTOGO_URL"]
+  config.redis.host = ENV["REDISTOGO_URL"]
   # config.redis.port = ENV["PORT"]
 
   ## Example: Set configuration for any loaded handlers. See the handler's
