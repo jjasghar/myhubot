@@ -1,5 +1,5 @@
 GIT
-  remote: git@github.com:jjasghar/lita-ping.git
+  remote: https://github.com/jjasghar/lita-ping.git
   revision: 7a3f8b41ec3e3c06d89913d3e5b03372145d8977
   branch: updates
   specs:
