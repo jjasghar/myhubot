@@ -16,3 +16,4 @@ gem "lita-ping" , :git => "https://github.com/jjasghar/lita-ping.git", :branch =
 gem "lita-motivate"
 gem "lita-wikipedia"
 gem "lita-web-title"
+gem "lita-wtf"
