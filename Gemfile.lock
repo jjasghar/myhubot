@@ -49,6 +49,8 @@ GEM
       lita (>= 4.0)
     lita-motivate (0.1.1)
       lita (>= 4.2)
+    lita-retro (1.0.0)
+      lita (>= 4.0)
     lita-web-title (1.0.4)
       lita (>= 4.3)
       nokogiri (>= 1.6.6)
@@ -95,6 +97,7 @@ DEPENDENCIES
   lita-karma
   lita-motivate
   lita-ping!
+  lita-retro
   lita-web-title
   lita-wikipedia
   lita-wtf
